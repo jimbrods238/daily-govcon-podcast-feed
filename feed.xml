@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daily GovCon Briefing</title>
-    <link>https://daily-govcon-podcast-feed.netlify.app</link>
+    <link>https://daily-govcon-podcast.netlify.app</link>
     <language>en-us</language>
     <description>Daily synthesis of federal contracting news — acquisition policy, DoD and VA, federal AI policy — and what it means for contractors. Five to seven minutes. One voice. Weekdays.</description>
     <itunes:author>Mike Ross</itunes:author>
@@ -13,7 +13,7 @@
       <itunes:name>Mike Ross</itunes:name>
       <itunes:email>jimbrods238@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://daily-govcon-podcast-feed.netlify.app/cover.png"/>
+    <itunes:image href="https://daily-govcon-podcast.netlify.app/cover.png"/>
     <itunes:category text="Government"/>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
@@ -25,7 +25,7 @@
       <description>The federal government is generating AI-related mission requirements faster than it is building the acquisition infrastructure to fill them competitively. Today's ICE sole-source to TRM Labs — up to $100 million, FFP, justified under Revolutionary FAR Overhaul provisions — is the clearest single expression of that gap, and a template agencies will repeat. Small AI shops not already in pre-solicitation conversations are structurally invisible to the awards that matter most right now.</description>
       <content:encoded><![CDATA[<h1>The Sole-Source AI Reflex — and Who It Locks Out</h1><p>The federal government is generating AI-related mission requirements faster than it is building the acquisition infrastructure to fill them competitively. Today's ICE sole-source to TRM Labs — up to $100 million, FFP, justified under Revolutionary FAR Overhaul provisions — is the clearest single expression of that gap, and a template agencies will repeat. Small AI shops not already in pre-solicitation conversations are structurally invisible to the awards that matter most right now.</p><h2>Featured story</h2><ul><li><a href="https://www.govconwire.com/articles/ice-homeland-security-task-force-sole-source-trm-labs">ICE Eyes Sole-Source Award for Homeland Security Task Force Analytical Support</a> — GovConWire</li></ul><h2>Also today</h2><ul><li><a href="https://washingtontechnology.com">Lack of White House guidance has complicated agency Mythos adoption, people familiar say</a> — Washington Technology</li><li><a href="https://nextgov.com">CISA directive revamps how agencies prioritize vulnerable systems</a> — Nextgov/FCW</li><li><a href="https://federalnewsnetwork.com">Innovation on ice: How DOGE derailed an SBA tech program</a> — FedScoop</li><li><a href="https://fedscoop.com">Oracle wins contract for first-ever governmentwide HR system</a> — FedScoop</li><li><a href="https://governmentexecutive.com">OPM's long-planned HR overhaul moves ahead with $396M award to Oracle</a> — Government Executive</li><li><a href="https://nextgov.com">Oracle wins $396M federal HR systems overhaul contract</a> — Nextgov/FCW</li><li><a href="https://federalnewsnetwork.com">OPM awards major HR IT modernization contract to Oracle</a> — Federal News Network</li><li><a href="https://washingtontechnology.com">NIH pulls the plug on its government-wide contracts</a> — Washington Technology</li><li><a href="https://washingtontechnology.com">GSA gets moving on second batch of Polaris SDVOSB awards</a> — Washington Technology</li><li><a href="https://breakingdefense.com">House appropriators release $1 trillion defense bill for FY27</a> — Breaking Defense</li><li><a href="https://nextgov.com">Trump's return-to-work mandate for feds helped drive MetTel's GSA upgrades</a> — Nextgov/FCW</li><li><a href="https://fedscoop.com">CISA directive orders agencies to prioritize vulnerability patching in a new way</a> — FedScoop</li><li><a href="https://federalnewsnetwork.com">AI directive focuses patching efforts on 'highest risk' vulnerabilities</a> — Federal News Network</li></ul>]]></content:encoded>
       <pubDate>Thu, 11 Jun 2026 06:04:51 +0000</pubDate>
-      <link>daily-govcon-podcast.netlify.app/episodes/2026-06-11.html</link>
+      <link>https://daily-govcon-podcast.netlify.app/episodes/2026-06-11.html</link>
       <enclosure url="https://pub-caa46d4c592942c0ac892523e931fd7b.r2.dev/episodes/2026-06-11.mp3" length="3326016" type="audio/mpeg"/>
       <guid isPermaLink="false">govcon-2026-06-11</guid>
       <itunes:duration>06:47</itunes:duration>
