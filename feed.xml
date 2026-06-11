@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daily GovCon Briefing</title>
+    <link>https://daily-govcon-podcast-feed.netlify.app</link>
+    <language>en-us</language>
+    <description>Daily synthesis of federal contracting news — acquisition policy, DoD and VA, federal AI policy — and what it means for contractors. Five to seven minutes. One voice. Weekdays.</description>
+    <itunes:author>Mike Ross</itunes:author>
+    <itunes:summary>Daily synthesis of federal contracting news and what it means for contractors.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Mike Ross</itunes:name>
+      <itunes:email>jimbrods238@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://daily-govcon-podcast-feed.netlify.app/cover.png"/>
+    <itunes:category text="Government"/>
+    <itunes:category text="News">
+      <itunes:category text="Business News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
